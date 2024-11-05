@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chukka s v pavani</h1>
 <h3 align="center">Information Technology Graduate</h3>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
+
 <a href="https://app.daily.dev/chukkapavani"><img src="https://api.daily.dev/devcards/v2/DRvWFj8yhlEacaRyfNOoj.png?r=jno" width="356" alt="Chukka s v pavani's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chukkapavani&label=Profile%20views&color=0e75b6&style=flat" alt="chukkapavani" /> </p>
