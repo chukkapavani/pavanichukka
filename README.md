@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chukka s v pavani</h1>
 <h3 align="center">Information Technology Graduate</h3>
 
-<a herf="mailto:pedro.sales.chukka9381@gmail.com">
+<a herf="mailto:chukka9381@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
 </a>
 
