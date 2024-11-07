@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Chukka s v pavani</h1>
 <h3 align="center">Information Technology Graduate</h3>
 
-<a herf="mailto:chukka9381@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
+<a herf="mailto:chukka9381@gmail.com"><img src="/gmail.gif">
+ 
 </a>
 
 <a href="https://app.daily.dev/chukkapavani"><img src="https://api.daily.dev/devcards/v2/DRvWFj8yhlEacaRyfNOoj.png?r=jno" width="356" alt="Chukka s v pavani's Dev Card"/></a>
